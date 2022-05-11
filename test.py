@@ -4,3 +4,6 @@ c = a + b
 
 d = 1323
 e = 'sdf'
+e = 'sdf'
+e = 'sdf'
+e = 'sdf'
